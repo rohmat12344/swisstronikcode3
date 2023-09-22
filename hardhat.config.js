@@ -1,7 +1,7 @@
 require("@nomicfoundation/hardhat-toolbox");
 
 // private-key starting with 0x
-const accounts = ["0x569b21cae627a7371743253bb81a2bf976f2baf6a5e314a100ceedc487240681"];
+const accounts = ["YOUR_PK"];
 
 module.exports = {
   solidity: "0.8.19",
